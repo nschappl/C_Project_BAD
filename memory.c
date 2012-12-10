@@ -25,8 +25,6 @@ void print_array(int mem[64][2])
 /*
 Function: main
 
-Parameters: 
-Param 1 - Int field
 
 
 */
