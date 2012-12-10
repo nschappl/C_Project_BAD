@@ -5,6 +5,13 @@
 #include <stdlib.h>
 #include <string.h>
 #define true 1
+/*
+Function: print_array
+
+Parameters: 
+Param 1 - 64 element array
+
+*/
 int print_array(int mem[64][2])
 {
         int a;
@@ -14,6 +21,15 @@ int print_array(int mem[64][2])
                 printf("%d\n", mem[a][1]);
         }
 }
+
+/*
+Function: main
+
+Parameters: 
+Param 1 - Int field
+Param 2 - character array
+
+*/
 int main(int argv, char* argc[])
 {
         /* Intialize */
