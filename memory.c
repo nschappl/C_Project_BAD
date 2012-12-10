@@ -30,7 +30,6 @@ Param 1 - Int field
 Param 2 - character array
 
 */
-// missing documentatiion: Param 2 - character array
 void main(int argv, char* argc[])
 {
         /* Intialize */
