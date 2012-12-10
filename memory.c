@@ -27,7 +27,7 @@ Function: main
 
 Parameters: 
 Param 1 - Int field
-
+Param 2 - character array
 
 */
 // missing documentatiion: Param 2 - character array
