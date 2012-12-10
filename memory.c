@@ -12,7 +12,7 @@ Parameters:
 Param 1 - 64 element array
 
 */
-int print_array(int mem[64][2])
+void print_array(int mem[64][2])
 {
         int a;
         for(a = 0; a <= 63; a++)
@@ -29,10 +29,8 @@ Parameters:
 Param 1 - Int field
 Param 2 - character array
 
-Returns:
-
 */
-int main(int argv, char* argc[])
+void main(int argv, char* argc[])
 {
         /* Intialize */
         int MemStack[64][2];
